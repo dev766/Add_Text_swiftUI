@@ -11,6 +11,7 @@
 		1816876F2C2C9B3600C0D344 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1816876E2C2C9B3600C0D344 /* ContentView.swift */; };
 		181687712C2C9B3800C0D344 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 181687702C2C9B3800C0D344 /* Assets.xcassets */; };
 		181687742C2C9B3800C0D344 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 181687732C2C9B3800C0D344 /* Preview Assets.xcassets */; };
+		1816877B2C2C9C8600C0D344 /* AddingText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1816877A2C2C9C8600C0D344 /* AddingText.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		1816876E2C2C9B3600C0D344 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		181687702C2C9B3800C0D344 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		181687732C2C9B3800C0D344 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1816877A2C2C9C8600C0D344 /* AddingText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingText.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				1816876C2C2C9B3600C0D344 /* Add_Text_swiftUIApp.swift */,
 				1816876E2C2C9B3600C0D344 /* ContentView.swift */,
+				1816877A2C2C9C8600C0D344 /* AddingText.swift */,
 				181687702C2C9B3800C0D344 /* Assets.xcassets */,
 				181687722C2C9B3800C0D344 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1816877B2C2C9C8600C0D344 /* AddingText.swift in Sources */,
 				1816876F2C2C9B3600C0D344 /* ContentView.swift in Sources */,
 				1816876D2C2C9B3600C0D344 /* Add_Text_swiftUIApp.swift in Sources */,
 			);
